@@ -30,6 +30,7 @@ npm start
 * HTML content can go into a single file - index.html
 * JS content can go into a single file - main.js
 * CSS content can go into a single file - main.css
+* Push the changes to the same branch - Assignment_branch
 
 **Tasks**
 * Root folder level screen -
