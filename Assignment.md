@@ -1,4 +1,9 @@
 **Get Started**
+* Pre-requisites
+```
+Nodejs - https://nodejs.org/en/
+VS Code - https://code.visualstudio.com/
+```
 * Clone the repository
 ```
 git clone https://github.com/CESTuto/UI_Assignment_1.git
