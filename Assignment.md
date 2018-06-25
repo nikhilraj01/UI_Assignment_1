@@ -33,10 +33,10 @@ npm start
 
 **Tasks**
 * Root folder level screen -
-* ![alt text](.\screenshots\list_all_folders.PNG)
+* ![alt text](https://raw.github.com/CESTuto/UI_Assignment_1/Assignment_branch/screenshots/list_all_folders.PNG)
 * Double click to go inside the folder -
-* ![alt text](.\screenshots\show_folder_content.PNG)
+* ![alt text](https://raw.github.com/CESTuto/UI_Assignment_1/Assignment_branch/screenshots/show_folder_content.PNG)
 * Create new folder -
-* ![alt text](.\screenshots\create_new_folder.PNG)
+* ![alt text](https://raw.github.com/CESTuto/UI_Assignment_1/Assignment_branch/screenshots/create_new_folder.PNG)
 * Other Features -
-* ![alt text](.\screenshots\other_features.PNG)
+* ![alt text](https://raw.github.com/CESTuto/UI_Assignment_1/Assignment_branch/screenshots/other_features.PNG)
