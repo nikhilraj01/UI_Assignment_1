@@ -1,11 +1,18 @@
 **Get Started**
 * Clone the repository
-### git clone
+```
+git clone https://github.com/CESTuto/UI_Assignment_1.git
+git checkout origin/Assignment_branch
+```
 * Change directory to the root folder
-### cd CESAssignment_FileManager
+```
+cd UI_Assignment_1
+```
 * Install node modules / run the application
-### npm install
-### npm start
+```
+npm install
+npm start
+```
 
 **Project Details**
 
