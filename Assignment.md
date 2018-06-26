@@ -35,6 +35,7 @@ npm start
 * HTML content can go into a single file - index.html
 * JS content can go into a single file - main.js
 * CSS content can go into a single file - main.css
+* You're open to use any file / folder structure. However, it will have minimal affect on your final assessment over completion of the assignment.
 * Push the changes to the same branch - Assignment_branch
 
 **Tasks**
