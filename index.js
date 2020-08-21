@@ -2,7 +2,7 @@ const express = require( "express" );
 const filemanager = require( "rich-filemanager-node" );
 var path = require("path");
 var fs = require("fs");
-const config = "C:/Users/Lenovo/Documents/UI Assignment/UI_Assignment_1/config.json";	//Change this to the actual location of your config file
+const config = "C:/Users/Lenovo/Documents/UI Assignment/UI_Assignment/config.json";	//Change this to the actual location of your config file
 var app = express();
 
 //Filemanager route

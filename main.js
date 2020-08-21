@@ -34,7 +34,12 @@ var months=["Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sept", "O
                     var path=element.attributes.path;
                     row.addEventListener("dblclick", function()
                     {
-                        initFolders(path);
+                        if(path.substring(path.length-3,path.length)=="PNG" || path.substring(path.length-3,path.length)=="png"){
+                            window.open("http://localhost:9000/filemanager?mode=getimage&path="+path+"&thumbnail=true", "_self");
+                        }
+                        else{
+                            initFolders(path);
+                        }
                     });
                     row.addEventListener("keypress", function(e)
                         {
