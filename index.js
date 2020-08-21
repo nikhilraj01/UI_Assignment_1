@@ -2,7 +2,7 @@ const express = require( "express" );
 const filemanager = require( "rich-filemanager-node" );
 var path = require("path");
 var fs = require("fs");
-const config = "C:/Users/anurags/UmangAssignment/config.json";	//Change this to the actual location of your config file
+const config = "C:/Users/Lenovo/Documents/UI Assignment/UI_Assignment_1/config.json";	//Change this to the actual location of your config file
 var app = express();
 
 //Filemanager route
@@ -25,7 +25,7 @@ app.get('/main.js', function(req, res){
 });
 
 app.get('/main.css', function(req, res){
-    sendFileContent(res, "main.js", "text/css");
+    sendFileContent(res, "main.css", "text/css");
 });
 
 function sendFileContent(response, fileName, contentType){
